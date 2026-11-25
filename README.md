@@ -80,7 +80,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Airfreightprice Com Domain Security](https://apis.io/security/airfreightprice-com/airfreightprice-com-domain-security/)
+- [Air Freight Price Domain Security](https://apis.io/security/airfreightprice-com/airfreightprice-com-domain-security/)
 
 ## Where to find this API
 
@@ -94,18 +94,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 11.0** — emerging · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 13.3** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 44.6 |
+| Discoverability | 62.5 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 2.4 |
-| Access clarity | 31.6 |
+| Access clarity | 38.3 |
 
-**Agent readiness 6.0** — agent-aware
+**Agent readiness 7.6** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -121,7 +121,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Event Surface Described | — |
 | Agent Skills | — |
 | Well Known Catalog | yes |
-| Consent Identity | — |
+| Consent Identity | signal |
 | Agent Card | — |
 | Dry Run Mode | — |
 | Delegated Identity | — |
@@ -130,8 +130,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | yes |
 
-**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 7.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/airfreightprice-com/](https://apis.io/providers/airfreightprice-com/).
 
